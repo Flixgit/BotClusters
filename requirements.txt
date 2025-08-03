@@ -1,4 +1,4 @@
-flask-socketio==5.5.1
+flask-socketio==5.1.2
 eventlet==0.33.1
 dnspython==2.2.1
 asyncio
